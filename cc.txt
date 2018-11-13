@@ -1,8 +1,6 @@
+new commit
 TEST ABC
 
 abc
 wertyu
-asdfgh
 
-
-udari

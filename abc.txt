@@ -2,6 +2,7 @@ git
 
 testing
 
+qweere udari
 abcd
 
 need to merge

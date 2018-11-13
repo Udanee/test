@@ -2,3 +2,6 @@ new commit
 
 new one
 first one
+
+
+new one and second comment for test conflicts

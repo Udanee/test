@@ -3,9 +3,4 @@ TEST ABC
 
 abc
 wertyu
-first one
-second one
-third one
 
-
-new comment and second one

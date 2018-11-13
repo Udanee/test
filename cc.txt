@@ -1,7 +1,6 @@
 new commit
+TEST ABC
 
-new one
-first one
+abc
+wertyu
 
-
-new one and second comment for test conflicts
